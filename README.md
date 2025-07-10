@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/001/236/978/large_2x/technology-banner-with-low-poly-plexus-design-vector.jpg" alt="GitHub Banner" width="1200" height="200"/>
+</p>
+
+
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sannidhya Das!
 
 ----
