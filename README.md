@@ -61,9 +61,9 @@ Let’s build something intelligent together.
 ------
 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SannidhyaDas&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SannidhyaDas&layout=donut&show_icons=true&theme=radical" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SannidhyaDas&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
 </p>
 
 <!--
