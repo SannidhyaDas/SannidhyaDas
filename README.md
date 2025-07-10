@@ -8,7 +8,10 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/SannidhyaDas003)
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/sannidhyadas)
 
+
 I’m an M.Sc. Data Science student with a strong foundation in Statistics, passionate about building intelligent systems that create real impact. With hands-on experience in ML, DL, and Generative AI, I love writing clean code—and more importantly, explaining it in a way that makes sense to others.
+
+<img align="right" alt="ai robo" width="290" height="135" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
 
 I specialize in:
 
