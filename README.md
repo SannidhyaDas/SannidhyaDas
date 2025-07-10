@@ -6,6 +6,8 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sannidhya Das!
 
 ----
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=SannidhyaDas&color=orange)
+
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@dassannidhya003)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sannidhya-das3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dassannidhya003@gmail.com)
@@ -64,7 +66,9 @@ Let’s build something intelligent together.
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SannidhyaDas&layout=donut&show_icons=true&theme=radical" alt="Top Languages" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api?username=SannidhyaDas&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=SannidhyaDas&theme=radical&hide_border=true" height="200"/>
 </p>
+
 
 <!--
 **SannidhyaDas/SannidhyaDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
