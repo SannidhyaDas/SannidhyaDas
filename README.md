@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sannidhya Das!
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@dassannidhya003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sannidhya-das3/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dassannidhya003@gmail.com)
+[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/sannidhyadas)
+
+
+
 
 <!--
 **SannidhyaDas/SannidhyaDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
