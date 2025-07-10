@@ -59,6 +59,10 @@ Let’s build something intelligent together.
 ✒️[...more blog articles](https://medium.com/@dassannidhya003/about)
 
 ------
+📈 My GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SannidhyaDas&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SannidhyaDas&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SannidhyaDas)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SannidhyaDas/SannidhyaDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
