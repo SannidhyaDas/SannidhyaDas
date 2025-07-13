@@ -3,7 +3,7 @@
 </p>
 
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sannidhya Das!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sannidhya!
 
 ----
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=SannidhyaDas&color=orange&abbreviated=true)
