@@ -73,7 +73,7 @@ Let’s build something intelligent together.
 📝Want To Know More About Me ?
 
 
-Check out my Resume Here: [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/SannidhyaDas/SannidhyaDas/blob/main/RedBus_Sannidhya-JUN2025_CV.pdf)
+Check out my Resume Here: [![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/SannidhyaDas/SannidhyaDas/blob/main/Sannidhya-Aug2025_CV_22.08.25.pdf)
 
 <!--
 **SannidhyaDas/SannidhyaDas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
