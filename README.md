@@ -44,14 +44,14 @@ Let’s build something intelligent together.
 <img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="kaggle logo" width="50px" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark logo" width="90px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/huggingface-1.svg" alt="Hugging Face" width="120" height="100"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark logo" width="90px" height="50px" /> <img src="https://github.com/SannidhyaDas/SannidhyaDas/blob/main/assets/Logos/hugging-face-logo.png" alt="Hugging Face" width="120" height="100"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git logo" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker logo" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI logo" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow logo" width="50px" height="50px" />
-<img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" alt="Langchain logo" width="50px" height="50px" />
+<img src="https://github.com/SannidhyaDas/SannidhyaDas/blob/main/assets/Logos/langchain3.png" alt="Langchain logo" width="50px" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="50" height="50"/>
+<img src="https://github.com/SannidhyaDas/SannidhyaDas/blob/main/assets/Logos/power-bi-logo.png" alt="Power BI" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau logo" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="mongoDB logo" width="50px" height="50px" />
 
