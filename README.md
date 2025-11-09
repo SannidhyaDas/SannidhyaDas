@@ -49,6 +49,7 @@ Let’s build something intelligent together.
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker logo" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI logo" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="Tensorflow logo" width="50px" height="50px" />
+<img src="https://cdn.worldvectorlogo.com/logos/langchain-1.svg" alt="Langchain logo" width="50px" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau logo" width="50px" height="50px" />
