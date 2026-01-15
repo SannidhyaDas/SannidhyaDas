@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sannidhya-das3/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:dassannidhya003@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/sannidhyadas)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&authuser=1&user=JhY86HQAAAAJ)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/SannidhyaDas003)
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/sannidhyadas)
 
@@ -38,7 +39,7 @@ Let’s build something intelligent together.
 <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="pandas logo" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="seaborn logo" width="50px" height="50px" />
 <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="matplotlib logo" width="50px" height="50px" /> <img src="https://cdn.worldvectorlogo.com/logos/oracle-logo.svg" alt="oracle-logo" width="50px" height="50px" />
-<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="90" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/> [![XGBoost](https://img.shields.io/badge/XGBoost-324455?style=for-the-badge&logo=python&logoColor=white)](https://xgboost.ai/)
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="90"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="90" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/> [![XGBoost](https://img.shields.io/badge/XGBoost-324455?style=for-the-badge&logo=python&logoColor=white)](https://xgboost.ai/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-00BC8C?style=for-the-badge&logo=leaflet&logoColor=white)](https://github.com/microsoft/LightGBM)
 [![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=apple&logoColor=black)](https://catboost.ai/)
 <img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="kaggle logo" width="50px" height="50px" />
@@ -69,6 +70,55 @@ Let’s build something intelligent together.
   <img src="https://github-readme-stats-pi-eight-36.vercel.app/api?username=SannidhyaDas&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
   <img src="https://streak-stats.demolab.com/?user=SannidhyaDas&theme=radical&hide_border=true" height="200"/>
 </p>
+
+------
+## Research & Publications
+
+My research lies at the intersection of **Natural Language Processing, Multimodal Learning, and Mental Health AI**, with a focus on **weak supervision, representation learning, and foundation-model adaptation under data scarcity**.
+
+<details>
+<summary>
+<b>Identifying Severity of Depression in Forum Posts</b><br>
+<i>Zafar Sarif, <b><a href="https://scholar.google.com/citations?hl=en&authuser=1&user=JhY86HQAAAAJ">Sannidhya Das</a></b> , Abhishek Das, Md Fahin Parvej, Dipankar Das</i> <br>
+  · 📘 RANLP 2025 (Workshop on NLP & Language Models for Digital Humanities)
+</summary>
+
+<br>
+
+🔗 **Paper:** https://acl-bg.org/proceedings/2025/LM4DH%202025/pdf/2025.lm4dh-1.12.pdf  
+
+- Proposed a **two-stage weakly supervised framework** for depression severity classification without annotated training data.  
+- Used **BART-MNLI** for zero-shot pseudo-label generation and **DistilBERT** fine-tuning for multi-class prediction.  
+- Demonstrated the effectiveness of **zero-shot learning + weak supervision** for low-resource mental health NLP tasks.  
+- **Results:** 92% internal accuracy; 28.9% accuracy on the official blind test set.  
+
+**Keywords:** NLP · Weak Supervision · Mental Health AI · Transformers
+
+</details>
+
+<details>
+<summary>
+<b>From Voice to Vision: A Multimodal Approach to Speech Emotion Recognition</b><br>
+<i><b><a href="https://scholar.google.com/citations?hl=en&authuser=1&user=JhY86HQAAAAJ">Sannidhya Das</a></b> , Dipanjan Saha, Subharthi Ray, Sainik Kumar Mahata, Dipankar Das</i> <br>
+  · 📘 SPELLL 2025 (Accepted)
+</summary>
+
+<br>
+
+- Reframed Speech Emotion Recognition using **spectrograms as visual surrogates** for emotional states.  
+- Introduced **class-wise PCA** to preserve emotion-discriminative acoustic representations.  
+- Performed systematic **unimodal and multimodal evaluations** on the **MELD dataset**.  
+- Explored **CLIP + Whisper** for modality-aware audio–text fusion under class imbalance.  
+- **Results:** 0.4975 Macro F1 (text+audio); 0.38 Macro F1 (CLIP–Whisper).  
+
+**Keywords:** Multimodal Learning · SER · CLIP · Whisper · Affective Computing
+
+</details>
+
+---
+
+**Interests:**  
+Agentic Solution · RAG-LLM Pipeline · Multimodal Representation Learning · Weakly Supervised Learning · Affective Computing · Foundation Models· Speech · NLP
 
 ------
 📝Want To Know More About Me ?
