@@ -83,7 +83,7 @@ Let’s build something intelligent together.
 <p align="left">
   <img src="https://github-readme-stats-pi-eight-36.vercel.app/api/top-langs/?username=SannidhyaDas&layout=donut&show_icons=true&theme=radical&hide=jupyter%20notebook" alt="Top Languages" height="200"/>
   <img src="https://github-readme-stats-pi-eight-36.vercel.app/api?username=SannidhyaDas&show_icons=true&theme=radical&cache_seconds=21600" alt="GitHub Stats" height="200"/>
-  <img src="https://streak-stats.demolab.com/?user=SannidhyaDas&theme=radical&hide_border=true" height="200"/>
+  <img src="https://github-readme-streak-stats-seven-brown.vercel.app?user=SannidhyaDas&theme=radical&hide_border=true" height="200"/>
 </p>
 
 ------
