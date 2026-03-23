@@ -19,7 +19,7 @@
 
 I’m an M.Sc. Data Science student with a strong foundation in Statistics, passionate about building intelligent systems that create real impact. With hands-on experience in ML, DL, and Generative AI, I love writing clean code—and more importantly, explaining it in a way that makes sense to others.
 
-<img align="right" alt="ai robo" width="290" height="135" src="https://cdn.dribbble.com/users/20368/screenshots/4012238/data_scene.gif">
+<img align="right" alt="ai robo" width="290" height="135" src="https://gifdb.com/images/high/2d-bar-graph-data-g9tuj8kubo7dwrx3.gif">
 
 I specialize in:
 
