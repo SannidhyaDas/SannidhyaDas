@@ -35,43 +35,39 @@ Let’s build something intelligent together.
 ----
 ## 🧰 Toolbox
 
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" alt="Matplotlib" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/oracle-logo.svg" alt="Oracle" width="50" height="50"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="50" height="50"/>
-
-  <img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" alt="Kaggle" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Apache Spark" width="50" height="50"/>
-
-  <img src="https://github.com/SannidhyaDas/SannidhyaDas/blob/main/assets/Logos/hugging-face-logo.png" alt="Hugging Face" width="50" height="50"/>
-
-  <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://github.com/SannidhyaDas/SannidhyaDas/blob/main/assets/Logos/langchain3.png" alt="LangChain" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="50" height="50"/>
-  <img src="https://github.com/SannidhyaDas/SannidhyaDas/blob/main/assets/Logos/power-bi-logo.png" alt="Power BI" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" alt="MongoDB" width="50" height="50"/>
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/matplotlib-1.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/oracle-logo.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/kaggle-1.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" width="50"/>
+<img src="https://github.com/SannidhyaDas/SannidhyaDas/blob/main/assets/Logos/hugging-face-logo.png" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="50"/>
+<img src="https://github.com/SannidhyaDas/SannidhyaDas/blob/main/assets/Logos/langchain3.png" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
+<img src="https://github.com/SannidhyaDas/SannidhyaDas/blob/main/assets/Logos/power-bi-logo.png" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-2.svg" width="50"/>
 </p>
 
 [![XGBoost](https://img.shields.io/badge/XGBoost-324455?style=for-the-badge&logo=python&logoColor=white)](https://xgboost.ai/)
 [![LightGBM](https://img.shields.io/badge/LightGBM-00BC8C?style=for-the-badge&logo=leaflet&logoColor=white)](https://github.com/microsoft/LightGBM)
 [![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=apple&logoColor=black)](https://catboost.ai/)
 
-------
+----
 
 📖 Latest Blog Articles
 
